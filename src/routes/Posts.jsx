@@ -7,7 +7,7 @@ const Posts = () => {
   useEffect(() => {
     fetch(`${process.env.REACT_APP_API_URL}/posts`)
       .then((res) => res.json())
-      .then((data) => setPosts(data))
+      .then((data) => setPosts(data.posts))
   }, [])
 
   return (
@@ -15,7 +15,7 @@ const Posts = () => {
       <Link to="/"><i class="arrow"></i></Link>
       <div className="center">
         <h2>All posts</h2>
-        {posts.map((post) => (
+        {posts && posts.map((post) => (
           <PostLink post={post} key={post.id} />
         ))}
       </div>

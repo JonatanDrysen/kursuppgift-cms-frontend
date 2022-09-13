@@ -19,3 +19,7 @@
 5. Click `Deploy`
 
    After a quick build and deploy process, your site should now be live! Further pushes to your repository will automatically update the site.
+
+
+### WordPress Access
+  Contact me if you want access to my WordPress site!

@@ -12,7 +12,7 @@
    After saving documents and running `npm start` you should have a working React App populated with your own posts from your WordPress blog
 
 ### Live deploy
-1. Log in or create a Vercel account (Github is recommended to access your existing repositories)
+1. Log in or create a Vercel account on vercel.com (Github is recommended to access your existing repositories)
 2. Click the `Add New` button and choose your repository
 3. Import said repository
 4. In the `Configure Project` dropdown in the next step, create an environment variable called `REACT_APP_API_URL` with your unique site URL as in `.env.local`

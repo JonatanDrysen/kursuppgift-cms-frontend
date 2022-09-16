@@ -23,7 +23,7 @@
 
 ## Contact me
 Admin: Jonatan Drysén
-Email: mailto:jojodrysen@gmail.com
+Email: [jojodrysen@gmail.com](mailto:jojodrysen@gmail.com)
   
 ## Use my API
 If you want to use my personal API, email me your WordPress.com username or connected email and i'll give you access to my site, if you ask nicely! If you don't already have a WordPress.com account, you will instead be directed to a sign up page, follow the instructions provided by WordPress first, and when your own account is created, you'll be able to access my site and create posts.
